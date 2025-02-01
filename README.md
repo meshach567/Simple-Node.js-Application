@@ -16,3 +16,6 @@ CI/CD pipeline with GitHub Actions in GitHub Codespaces for a simple Node.js app
 - Deploy the application to AWS EC2, Heroku, or Vercel.
 - Implement unit tests that run automatically on new commits.
 - Notify the developer via Slack or email when a deployment is successful or fails.
+
+Link to codespaces
+https://super-fiesta-4jqw9q9959wj27v65.github.dev/
